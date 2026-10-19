@@ -5,5 +5,14 @@
     <link>https://github.com/naes993/the-collector-releases</link>
     <description>Updates for The Collector</description>
     <language>en</language>
+    <item>
+      <title>Version 0.2.0</title>
+      <pubDate>Mon, 19 Oct 2026 02:21:10 +0000</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>First version with automatic updates</p>]]></description>
+      <enclosure url="https://github.com/naes993/the-collector-releases/releases/download/v0.2.0/The-Collector-0.2.0.zip" sparkle:edSignature="ZcMiIl3kKJpYp5DiNdttwxNhzJ7xY6wzB3+1t7g3TLKKP5oi1Ib6zDCNyK/JbFxkOniDeiVT1Gl7bydW6RLGCw==" length="1886361" type="application/octet-stream"/>
+    </item>
   </channel>
 </rss>
