@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>The Collector</title>
+    <link>https://github.com/naes993/the-collector-releases</link>
+    <description>Updates for The Collector</description>
+    <language>en</language>
+  </channel>
+</rss>
