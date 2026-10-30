@@ -6,6 +6,15 @@
     <description>Updates for The Collector</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.0</title>
+      <pubDate>Fri, 30 Oct 2026 19:51:00 +0000</pubDate>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>New: Saved Setups. Save your whole look under a name, switch between setups from the menu bar, and link one to your displays or to the laptop screen.</p><p>New: four built-in Starters in Settings, with pictures of how each one looks, to use as a starting point.</p><p>New: Peek. The tab bar can rest as thin colored slivers or icons and rise from behind the window when you reach for it.</p><p>New: Bookmarks, a slim deck of colored tabs along the window&#x27;s edge.</p><p>New: Settings is now a sidebar window with Style, Peek, Bubbles, Mouse and Keyboard and Rules pages and a live preview. Each style remembers its own options.</p><p>Improved: choose where the tab bar sits along the window&#x27;s edge, and tab bars now stay clear of the window&#x27;s rounded corners.</p><p>Fixed: groups survive the lock screen, and closed windows leave their groups again.</p>]]></description>
+      <enclosure url="https://github.com/naes993/the-collector-releases/releases/download/v0.3.0/The-Collector-0.3.0.zip" sparkle:edSignature="1S31M3VwDV3KzgRdUhj7nFLZ04sPOAcRtm2KztQBBMFdOncElcBxA+SbeVRhydh1mh6h1WXQWW1Jkq+MflA3AQ==" length="2295227" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 0.2.0</title>
       <pubDate>Mon, 19 Oct 2026 02:21:10 +0000</pubDate>
       <sparkle:version>4</sparkle:version>
