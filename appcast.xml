@@ -6,6 +6,15 @@
     <description>Updates for The Collector</description>
     <language>en</language>
     <item>
+      <title>Version 0.4.0</title>
+      <pubDate>Sat, 31 Oct 2026 04:53:27 +0000</pubDate>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>New: a Welcome Tour that walks through tabs, grids, bubbles and Peek on a practice desktop, then lets you pick a starter look. It opens on a fresh install and any time from the menu.</p><p>Tab clicks feel smoother: the clicked tab lights up right away, even when an app is slow to answer.</p><p>Experimental settings: live grid resizing and adaptive follow speed, both off by default.</p><p>The Bookmarks starter no longer says peek, since its tabs stay up.</p>]]></description>
+      <enclosure url="https://github.com/naes993/the-collector-releases/releases/download/v0.4.0/The-Collector-0.4.0.zip" sparkle:edSignature="vuTOsmeVRkDmn99u/VNdaJu4Gn4o2nRHD84s72Rf687yOiXE5qJ9TAL9OtWq9CT5ePSA+FfRZteKx5x5T0UfBA==" length="2491242" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 0.3.0</title>
       <pubDate>Fri, 30 Oct 2026 19:51:00 +0000</pubDate>
       <sparkle:version>7</sparkle:version>
