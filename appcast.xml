@@ -6,6 +6,15 @@
     <description>Updates for The Collector</description>
     <language>en</language>
     <item>
+      <title>Version 0.4.1</title>
+      <pubDate>Mon, 02 Nov 2026 15:21:14 +0000</pubDate>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:shortVersionString>0.4.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>A tidier menu bar menu: Fit Groups to Screens, Ungroup All and the new Waiting Tabs list are under Groups, Export and Import are under Setup, and Welcome Tour, Open at Login and Check for Updates are under The Collector. Waiting Tabs shows tabs still waiting for their windows, and a click forgets one. Lighter on CPU: saving groups no longer asks every app for its titles, and waiting tabs are only looked for when something changed. Dragging a window by a Safari, Finder or Mail toolbar now groups it and moves its tabs. Browser colors are now off unless turned on in Settings, Experimental.</p>]]></description>
+      <enclosure url="https://github.com/naes993/the-collector-releases/releases/download/v0.4.1/The-Collector-0.4.1.zip" sparkle:edSignature="PPdnUmUrNM3esOXrq102IjxWUwCO7AvsyRrSpmfFGpw7Yx7ut2qenuCPTymlbCn5SeyHYhwi7mApOAvD4Up5Cw==" length="2536266" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 0.4.0</title>
       <pubDate>Sat, 31 Oct 2026 04:53:27 +0000</pubDate>
       <sparkle:version>8</sparkle:version>
